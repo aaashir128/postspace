@@ -1,0 +1,44 @@
+.social-login-button {
+    width: 100%;
+    padding: 15px;
+    font-weight: 600;
+    border: 1px solid #000;
+    margin-top: 25px;
+    border-radius: 10px;
+    display: block;
+    color: #000;
+    background-color: white;
+    font-family: "Montserrat-SemiBold";
+    cursor: pointer;
+  }
+  
+  .space-button {
+    border: none;
+    margin-left: 15px;
+    color: #fff;
+    border-radius: 31px;
+    font-weight: 500;
+  }
+  .badge-button{
+    padding: 5px 35px !important;
+    color: #fff;
+    border-radius: 31px;
+    width: auto;
+    border: none;
+  }
+  
+  .user-button {
+    border: none;
+    margin: 15px 5px 8px 5px !important;
+    color: #fff;
+    border-radius: 12px;
+    width:90%;
+    font-weight: 500;
+    padding: 14px 16px 14px 18px;
+  }
+  @media (max-width: 1024px) {
+    .user-button {
+    margin: 0px 5px 8px 5px !important;
+    }
+    
+  }
